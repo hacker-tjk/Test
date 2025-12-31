@@ -1,3 +1,2 @@
-aiogram
+aiogram==2.23.1 
 g4f==0.5.7.3
-pyTelegramBotAPI
